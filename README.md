@@ -18,4 +18,4 @@ TypeScript · React · React Native · Next.js · Node.js · PHP / Laravel · C#
 
 ### Contact
 
-alliyev.zulfi95@gmail.com · [LinkedIn](https://www.linkedin.com/in/zulfi-aliyev-320469210/) · [sci-fi.az](https://sci-fi.az)
+alliyev.zulfi95@gmail.com · [LinkedIn](https://www.linkedin.com/in/zulfi-aliyev/) · [sci-fi.az](https://sci-fi.az)
