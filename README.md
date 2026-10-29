@@ -6,11 +6,11 @@ I build products that run the day-to-day work of real businesses: intranet platf
 
 ### What I work on
 
-- **CorpLife** — corporate intranet platform: news, chat, tasks, HR requests, documents, schedules, training, meetings and a built-in AI assistant. Web, Android, iPhone and Windows, in three languages. In production at a multi-brand restaurant holding.
-- **Cup Detector** — cameras at café counters match every drink handed over with the till receipts and flag sales without a receipt.
-- **CRM and website for a construction company**, a **catering ordering platform** for a bakery-café chain and an **operations portal** for a services company (QR feedback, NFC check-in, training academy).
+- **[CorpLife](https://github.com/zullfi95/corplife)** — corporate intranet platform: news, chat, tasks, HR requests, documents, schedules, training, meetings and a built-in AI assistant. Web, Android, iPhone and Windows, in three languages. In production at a multi-brand restaurant holding.
+- **[Cup Detector](https://github.com/zullfi95/cup-detector)** — cameras at café counters match every drink handed over with the till receipts and flag sales without a receipt.
+- **[CRM and website for a construction company](https://github.com/zullfi95/construction-crm)**, a **catering ordering platform** for a bakery-café chain and an **[operations portal](https://github.com/zullfi95/operations-portal)** for a services company (QR feedback, NFC check-in, training academy).
 
-Client code is private. The open repositories here are side projects and experiments.
+Client code is private — the linked showcases have a product overview and screenshots on demo data. The other open repositories here are side projects and experiments.
 
 ### Stack
 
