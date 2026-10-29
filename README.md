@@ -8,7 +8,7 @@ I build products that run the day-to-day work of real businesses: intranet platf
 
 - **[CorpLife](https://github.com/zullfi95/corplife)** — corporate intranet platform: news, chat, tasks, HR requests, documents, schedules, training, meetings and a built-in AI assistant. Web, Android, iOS, Windows and macOS, in three languages. In production at a multi-brand restaurant holding.
 - **[AI Vision](https://github.com/zullfi95/ai-vision)** — cameras at the cash desk match every item handed over with the till receipts and flag sales without a receipt. First deployed as Cup Detector at a bakery-café chain.
-- **[CRM and website for a construction company](https://github.com/zullfi95/construction-crm)**, a **catering ordering platform** for a bakery-café chain and an **[operations portal](https://github.com/zullfi95/operations-portal)** for a services company (QR feedback, NFC check-in, training academy).
+- **[CRM and website for a construction company](https://github.com/zullfi95/construction-crm)**, a **catering ordering platform** for a bakery-café chain and an **[operations portal](https://github.com/zullfi95/operations-portal)** for a services company (QR feedback, check-in by NFC tags and face-recognition terminals, training academy).
 
 Client code is private — the linked showcases have a product overview and screenshots on demo data. The other open repositories here are side projects and experiments.
 
